@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15431" started-at="2017-11-21T22:33:26Z" finished-at="2017-11-21T22:33:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15431" started-at="2017-11-21T22:33:26Z" finished-at="2017-11-21T22:33:41Z">
+      <class name="test.SampleTestSuite">
+        <test-method status="PASS" signature="testGLS()[pri:0, instance:test.SampleTestSuite@27efef64]" name="testGLS" duration-ms="15392" started-at="2017-11-21T23:33:26Z" finished-at="2017-11-21T23:33:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGLS -->
+      </class> <!-- test.SampleTestSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
